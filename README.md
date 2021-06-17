@@ -5,7 +5,7 @@
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing"/>
-Alan Turing(1912 - 1954)
+<p align="center">Alan Turing(1912 - 1954)</p>
 </p>
 * This programming language is based on Free Pascal, GNU Pascal and KodePas Compiler.
 * This project **is not** a customization of Pascal, we build Turing from **Scratch** with the support of **Pascal's Compiler**.
