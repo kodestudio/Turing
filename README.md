@@ -1,4 +1,4 @@
-**# Turing**
+# ** Turing**
 ## A brand new programming language with multi-purpose used for developers, who is making applications, website, AI,...
 ### 1. What is this project?
 
@@ -15,11 +15,11 @@
   * **Friendly community** and helpful forums.
 
 ### 2. Our targets
-  - [] Build concept for our programming language.
-  - [] Build context-grammar-tree.
-  - [] Build lexer, parser, compiler
-  - [] Build framework for making app, web, AI,...
-  - [] Write documentation and start beta-testing.
+  - [ ] Build concept for our programming language.
+  - [ ] Build context-grammar-tree.
+  - [ ] Build lexer, parser, compiler
+  - [ ] Build framework for making app, web, AI,...
+  - [ ] Write documentation and start beta-testing.
  
 ### 3. Contact US
-  * Every contact or want to join this project please inbox to **Kode Organization**.
+  * Everyone who want to contact or want to join this project please inbox to **Kode Organization**.
