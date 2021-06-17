@@ -1,9 +1,10 @@
 # Turing
 ## A completely new programming language which has multi-purpose, suitable for developers.
 ### 1. What is Turing?
-* Turin is an open-source project made by the Hydro OS team, with the support from Kode organization to tribute **Alan Turing**.
+* Turing is an open-source project made by the Hydro OS team, with the support from Kode organization to tribute **Alan Turing**.
 * This programming language is based on Free Pascal, GNU Pascal and KodePas Compiler.
 * This project **is not** a customization of Pascal, we build Turing from **Scratch** with the support of **Pascal's Compiler**.
+* Our team use ***Pascal's Compiler*** to compile our code into machine code for **excuting as program** in computer.
 * We hope this language will help to reduce the development process and easily to maintain or refractor code.
 
 * Turing language aims to:
@@ -21,4 +22,7 @@
   - [ ] Write documentation and start beta-testing.
  
 ### 3. Contact us
-  * Everyone who want to contribute to this project can contact **Kode Organization**.
+  * Everyone who want to contribute to this project can contact **Kode Organization** via these links:
+   * Kode's Discord Server: [Kode Discord Server](https://discord.gg/33fmGezE)
+   * HydroOS Facebook Page: [HydroOS Facebook Page](https://www.facebook.com/hydroos.dev)
+   * Kode Facebook Page: [Kode Facebook Page](https://www.facebook.com/kode.page)
