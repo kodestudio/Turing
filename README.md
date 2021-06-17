@@ -5,7 +5,7 @@
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing aged 16"/>
-<p align="center"> **Alan Turing** (1912 - 1954)</p>
+<p align="center"> Alan Turing (1912 - 1954)</p>
 </p>
 
 * This programming language is based on Free Pascal, GNU Pascal and KodePas Compiler.
