@@ -20,5 +20,5 @@
   - [ ] Build framework for making app, web, AI,...
   - [ ] Write documentation and start beta-testing.
  
-### 3. Contact US
-  * Everyone who want to contact or want to join this project please contact **Kode Organization**.
+### 3. Contact us
+  * Everyone who want to contribute to this project can contact **Kode Organization**.
