@@ -1,5 +1,5 @@
 # Turing
-## A completely new programming language which has multi-purpose, suitable for developers.
+## A completely new programming language which has multi-purpose and suitable for developers.
 ### 1. What is Turing?
 * Turing is an open-source project made by the Hydro OS team, with the support from Kode organization to tribute **Alan Turing**.
 
