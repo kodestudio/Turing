@@ -2,6 +2,9 @@
 ## A completely new programming language which has multi-purpose, suitable for developers.
 ### 1. What is Turing?
 * Turing is an open-source project made by the Hydro OS team, with the support from Kode organization to tribute **Alan Turing**.
+
+![Alan Turing(1912 - 1954)](https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg)
+
 * This programming language is based on Free Pascal, GNU Pascal and KodePas Compiler.
 * This project **is not** a customization of Pascal, we build Turing from **Scratch** with the support of **Pascal's Compiler**.
 * Our team use ***Pascal's Compiler*** to compile our code into machine code for **excuting as program** in computer.
