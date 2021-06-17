@@ -23,6 +23,6 @@
  
 ### 3. Contact us
   * Everyone who want to contribute to this project can contact **Kode Organization** via these links:
-   * Kode's Discord Server: [Kode Discord Server](https://discord.gg/33fmGezE)
-   * HydroOS Facebook Page: [HydroOS Facebook Page](https://www.facebook.com/hydroos.dev)
-   * Kode Facebook Page: [Kode Facebook Page](https://www.facebook.com/kode.page)
+     * Kode Discord Server: [Kode Discord Server](https://discord.gg/33fmGezE)
+     * HydroOS Facebook Page: [HydroOS Facebook Page](https://www.facebook.com/hydroos.dev)
+     * Kode Facebook Page: [Kode Facebook Page](https://www.facebook.com/kode.page)
