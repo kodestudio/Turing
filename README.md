@@ -4,8 +4,8 @@
 * Turing is an open-source project made by the Hydro OS team, with the support from Kode organization to tribute **Alan Turing**.
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing"/>
-<p align="center">Alan Turing(1912 - 1954)</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing aged 16"/>
+<p align="center">Alan Turing (1912 - 1954)</p>
 </p>
 
 * This programming language is based on Free Pascal, GNU Pascal and KodePas Compiler.
