@@ -1,5 +1,5 @@
-# ** Turing**
-## A brand new programming language with multi-purpose used for developers, who is making applications, website, AI,...
+# Turing
+## A brand new programming language with multi-purpose used for developers.
 ### 1. What is this project?
 
 * This project is an open-source project made by team HydroOS, with the support from Kode organisation to tribute **Alan Turing**.
