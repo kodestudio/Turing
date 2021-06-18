@@ -43,7 +43,7 @@
 ## Ngôn ngữ lập trình hoàn toàn mới, đa mục đích sử dụng cho các nhà phát triển phần mềm.
 ### 1.Turing là gì?
 
-* Turing là một dự án ng mã nguồn mở, được xây dựng bởi team **HydroOS** và nhận được sự hỗ trợ của tổ chức **Kode**, nhằm tri ân đến nhà khoa học **Alan Turing**.
+* Turing là một dự án ngôn ngữ lập trình mã nguồn mở, được xây dựng bởi team **HydroOS** và nhận được sự hỗ trợ của tổ chức **Kode**, nhằm tri ân đến nhà khoa học **Alan Turing**.
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing 16 tuổi"/>
