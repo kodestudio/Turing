@@ -70,7 +70,7 @@
 - [ ] Viết tài liệu và tiến hành giai đoạn beta-test.
 
 ### 3. Liên hệ với chúng tôi.
-* Các bạn muốn đóng góp cho dự án thì có thể liên hệ chúng tôi qua các đường dẫn sau:
+* Các bạn muốn đóng góp cho dự án thì có thể liên hệ **tổ chức Kode** thông qua các đường dẫn sau:
   * Máy chủ Discord của Kode: [Kode Discord Server](https://discord.gg/33fmGezE)
   * Trang Facebook của HydroOS: [HydroOS Facebook Page](https://www.facebook.com/hydroos.dev)
   * Trang Facebook của Kode: [Kode Facebook Page](https://www.facebook.com/kode.page)
