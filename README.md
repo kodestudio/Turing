@@ -53,7 +53,7 @@
 * Ngôn ngữ lập trình này dựa trên ***trình biên dịch của Free Pascal, GNU Pascal, KodePas.***
 * Dự án này **không phải** là một phiên bản cải tiến của ngôn ngữ lập trình **Pascal**, chúng tôi **xây dựng** Turing từ ban đầu với sự hỗ trợ của các **trình biên dịch của ngôn ngữ Pascal**.
 * Team chúng tôi sử dụng ***các trình biên dịch của Pascal*** để biên dịch code của chúng tôi thành mã máy, cho phép **thực thi chương trình dịch của Turing** trên máy tính.
-* Chúng tôi hy vọng ngôn ngữ lập trình này sẽ giảm bớt gánh nặng trong quá trình phát triển ph, cũng như dễ dàng bảo trì và tái cấu trúc lại code.
+* Chúng tôi hy vọng ngôn ngữ lập trình này sẽ giảm bớt gánh nặng trong quá trình phát triển phần mềm, cũng như dễ dàng bảo trì và tái cấu trúc lại code.
 
 * Mục tiêu ngôn ngữ lập trình Turing hướng đến:
   * Cú pháp **dễ học và dễ sử dụng**.
