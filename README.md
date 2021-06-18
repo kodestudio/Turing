@@ -6,7 +6,7 @@
 
 ## A completely new programming language which has multi-purpose and suitable for developers.
 ### 1. What is Turing?
-* Turing is an open-source programming project, made by the **Hydro OS** team with the support from **Kode organization** to tribute **Alan Turing**.
+* Turing is an open-source programming language project, made by the **Hydro OS** team with the support from **Kode organization** to tribute **Alan Turing**.
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing aged 16"/>
@@ -43,7 +43,7 @@
 ## Ngôn ngữ lập trình hoàn toàn mới, đa mục đích sử dụng cho các nhà phát triển phần mềm.
 ### 1.Turing là gì?
 
-* Turing là một dự án phần mềm mã nguồn mở, được xây dựng bởi team **HydroOS** và nhận được sự hỗ trợ của tổ chức **Kode**, nhằm tri ân đến nhà khoa học **Alan Turing**.
+* Turing là một dự án ng mã nguồn mở, được xây dựng bởi team **HydroOS** và nhận được sự hỗ trợ của tổ chức **Kode**, nhằm tri ân đến nhà khoa học **Alan Turing**.
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing 16 tuổi"/>
