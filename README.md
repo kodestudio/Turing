@@ -27,7 +27,7 @@
   * **Wide and Diversity Ecosystem**.
 
 ### 2. Our targets
-  - [ ] Build concept for our programming language.
+  - [x] Build concept for our programming language.
   - [ ] Build context-grammar-tree.
   - [ ] Build lexer/tokenizer, parser,  compiler.
   - [ ] Build framework for making app, web, AI,...
@@ -63,7 +63,7 @@
   * **Hệ sinh thái đa dạng và rộng lớn**.
 
 ### 2. Mục tiêu của chúng tôi.
-- [ ] Xây dựng các tính năng và giới thiệu ngôn ngữ lập trình của chúng tôi.
+- [x] Xây dựng các tính năng và giới thiệu ngôn ngữ lập trình của chúng tôi.
 - [ ] Xây dựng cây ngữ cảnh.
 - [ ] Xây dựng lexer/tokenizer, parser, AST, trình biên dịch.
 - [ ] Xây dựng framework cho phép phát triển phần mềm ứng dụng, trang web, trí tuệ nhân tạo, ...
