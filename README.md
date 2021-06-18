@@ -16,7 +16,7 @@
 * This programming language is based on ***Free Pascal, GNU Pascal and KodePas Compiler***.
 * This project **is not** a customization of Pascal, we build Turing from **Scratch** with the support of **Pascal's Compiler**.
 * Our team use ***Pascal's Compiler*** to compile our code into machine code for **excuting Turing Compiler** in computer.
-* We hope this language will help to reduce the sdevelopment process and easily to maintain or refractor code.
+* We hope this language will help to reduce the software development process and easily to maintain or refractor code.
 
 * Turing language aims to:
   * **Easy-to-use-and-learn** syntax.
