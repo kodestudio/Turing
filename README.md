@@ -40,7 +40,7 @@
      * Kode Facebook Page: [Kode Facebook Page](https://www.facebook.com/kode.page)
 
 # Turing
-## Ngôn ngữ lập trình hoàn toàn mới, đa mục đích sử dụng cho các nhà phát triển phần mềm.
+## Ngôn ngữ lập trình mới, đa mục đích sử dụng cho các nhà phát triển phần mềm.
 ### 1.Turing là gì?
 
 * Turing là một dự án ngôn ngữ lập trình mã nguồn mở, được xây dựng bởi team **HydroOS** và nhận được sự hỗ trợ của tổ chức **Kode**, nhằm tri ân đến nhà khoa học **Alan Turing**.
@@ -65,12 +65,12 @@
 ### 2. Mục tiêu của chúng tôi.
 - [ ] Xây dựng các tính năng và giới thiệu ngôn ngữ lập trình của chúng tôi.
 - [ ] Xây dựng cây ngữ cảnh.
-- [ ] Xây dựng trình phân tính từ vựng (lexer/tokenizer, parser, AST), trình biên dịch.
+- [ ] Xây dựng lexer/tokenizer, parser, AST, trình biên dịch.
 - [ ] Xây dựng framework cho phép phát triển phần mềm ứng dụng, trang web, trí tuệ nhân tạo, ...
 - [ ] Viết tài liệu và tiến hành giai đoạn beta-test.
 
 ### 3. Liên hệ với chúng tôi.
-* Các bạn muốn đóng góp cho dự án thì có thể liên hệ **tổ chức Kode** thông qua các đường dẫn sau:
+* Mọi đóng góp cho dự án vui lòng liên hệ **tổ chức Kode** thông qua các đường dẫn sau:
   * Máy chủ Discord của Kode: [Kode Discord Server](https://discord.gg/33fmGezE)
   * Trang Facebook của HydroOS: [HydroOS Facebook Page](https://www.facebook.com/hydroos.dev)
   * Trang Facebook của Kode: [Kode Facebook Page](https://www.facebook.com/kode.page)
