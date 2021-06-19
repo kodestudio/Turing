@@ -38,6 +38,7 @@
      * Kode Discord Server: [Kode Discord Server](https://discord.gg/33fmGezE)
      * HydroOS Facebook Page: [HydroOS Facebook Page](https://www.facebook.com/hydroos.dev)
      * Kode Facebook Page: [Kode Facebook Page](https://www.facebook.com/kode.page)
+     * KodeSpace Website: [KodeSpace Website](https://www.kodelang.dev)
 
 # Turing
 ## Ngôn ngữ lập trình mới, đa mục đích sử dụng cho các nhà phát triển phần mềm.
@@ -52,7 +53,7 @@
 
 * Ngôn ngữ lập trình này dựa trên ***trình biên dịch của Free Pascal, GNU Pascal, KodePas.***
 * Dự án này **không phải** là một phiên bản cải tiến của ngôn ngữ lập trình **Pascal**, chúng tôi **xây dựng** Turing từ ban đầu với sự hỗ trợ của các **trình biên dịch của ngôn ngữ Pascal**.
-* Team chúng tôi sử dụng ***các trình biên dịch của Pascal*** để biên dịch code của chúng tôi thành mã máy, cho phép **thực thi chương trình dịch của Turing** trên máy tính.
+* Nhóm phát triển sử dụng ***các trình biên dịch của Pascal*** để biên dịch code của chúng tôi thành mã máy, cho phép **thực thi chương trình dịch của Turing** trên máy tính.
 * Chúng tôi hy vọng ngôn ngữ lập trình này sẽ giảm bớt gánh nặng trong quá trình phát triển phần mềm, cũng như dễ dàng bảo trì và tái cấu trúc lại code.
 
 * Mục tiêu ngôn ngữ lập trình Turing hướng đến:
@@ -63,7 +64,7 @@
   * **Hệ sinh thái đa dạng và rộng lớn**.
 
 ### 2. Mục tiêu của chúng tôi.
-- [x] Xây dựng các tính năng và giới thiệu ngôn ngữ lập trình của chúng tôi.
+- [x] Xây dựng các tính năng và giới thiệu ngôn ngữ lập trình Turing.
 - [ ] Xây dựng cây ngữ cảnh.
 - [ ] Xây dựng lexer/tokenizer, parser, AST, trình biên dịch.
 - [ ] Xây dựng framework cho phép phát triển phần mềm ứng dụng, trang web, trí tuệ nhân tạo, ...
@@ -74,4 +75,5 @@
   * Máy chủ Discord của Kode: [Kode Discord Server](https://discord.gg/33fmGezE)
   * Trang Facebook của HydroOS: [HydroOS Facebook Page](https://www.facebook.com/hydroos.dev)
   * Trang Facebook của Kode: [Kode Facebook Page](https://www.facebook.com/kode.page)
+  * Trang chủ KodeSpace: [KodeSpace Website](https://www.kodelang.dev)
  
