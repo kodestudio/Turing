@@ -4,9 +4,9 @@
  <img src="https://i.ibb.co/qr0BG2c/Picture1.png" alt="Turing programming language logo" />
 </p>
 
-## A completely new programming language which has multi-purpose and suitable for developers.
+## A completely new programming language built from scratch, which is multipurposed and suitable for developers.
 ### 1. What is Turing?
-* Turing is an open-source programming language project, made by the **Hydro OS** team with the support from **Kode organization** to tribute **Alan Turing**.
+* Turing is an open-source programming language project, made by the **Hydro OS** team with the support from **Kode Organization** to tribute **Alan Turing**.
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing aged 16"/>
@@ -16,14 +16,14 @@
 * This programming language is based on ***Free Pascal, GNU Pascal and KodePas Compiler***.
 * This project **is not** a customization of Pascal, we build Turing from **Scratch** with the support of **Pascal's Compiler**.
 * Our team use ***Pascal's Compiler*** to compile our code into machine code for **excuting Turing Compiler** in computer.
-* We hope this language will help to reduce the software development process and easily to maintain or refractor code.
+* We hope this language will help to reduce the software development processing time and easier to maintain or refractor code.
 
 * Turing language aims to:
   * **Easy-to-use-and-learn** syntax.
   * **Fast** compiling.
   * **Debug** friendly with users.
-  * **Multi-purposed** usage for making application, website, AI and more,...
-  * **Friendly community** and **helpful forums**.
+  * **Multi-purposed** usage for making application, website, AI,... etc.
+  * **Friendly community**.
   * **Wide and Diversity Ecosystem**.
 
 ### 2. Our targets
@@ -35,16 +35,16 @@
  
 ### 3. Contact us
   * Everyone who want to contribute to this project can contact **Kode Organization** via these links:
-     * Kode Discord Server: [Kode Discord Server](https://discord.gg/33fmGezE)
-     * HydroOS Facebook Page: [HydroOS Facebook Page](https://www.facebook.com/hydroos.dev)
-     * Kode Facebook Page: [Kode Facebook Page](https://www.facebook.com/kode.page)
-     * KodeSpace Website: [KodeSpace Website](https://www.kodelang.dev)
+     * [Kode Discord Server](https://discord.gg/33fmGezE)
+     * [HydroOS Facebook Page](https://www.facebook.com/hydroos.dev)
+     * [Kode Facebook Page](https://www.facebook.com/kode.page)
+     * [KodeSpace Website](https://www.kodelang.dev)
 
 # Turing
 ## Ngôn ngữ lập trình mới, đa mục đích sử dụng cho các nhà phát triển phần mềm.
 ### 1.Turing là gì?
 
-* Turing là một dự án ngôn ngữ lập trình mã nguồn mở, được xây dựng bởi team **HydroOS** và nhận được sự hỗ trợ của tổ chức **Kode**, nhằm tri ân đến nhà khoa học **Alan Turing**.
+* Turing là một dự án ngôn ngữ lập trình mã nguồn mở, được xây dựng bởi team **HydroOS** và nhận được sự hỗ trợ từ tổ chức **Kode**, nhằm tri ân đến nhà khoa học **Alan Turing**.
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing 16 tuổi"/>
@@ -60,7 +60,7 @@
   * Cú pháp **dễ học và dễ sử dụng**.
   * Biên dịch **nhanh chóng**.
   * **Trình gỡ lỗi** thân thiện với người dùng.
-  * **Cộng đồng thân thiện** và **diễn đàn** giúp đỡ.
+  * **Cộng đồng thân thiện**.
   * **Hệ sinh thái đa dạng và rộng lớn**.
 
 ### 2. Mục tiêu của chúng tôi.
@@ -72,8 +72,8 @@
 
 ### 3. Liên hệ với chúng tôi.
 * Mọi đóng góp cho dự án vui lòng liên hệ **tổ chức Kode** thông qua các đường dẫn sau:
-  * Máy chủ Discord của Kode: [Kode Discord Server](https://discord.gg/33fmGezE)
-  * Trang Facebook của HydroOS: [HydroOS Facebook Page](https://www.facebook.com/hydroos.dev)
-  * Trang Facebook của Kode: [Kode Facebook Page](https://www.facebook.com/kode.page)
-  * Trang chủ KodeSpace: [KodeSpace Website](https://www.kodelang.dev)
+  * [Kênh chat Discord của Kode](https://discord.gg/33fmGezE)
+  * [Trang Facebook của HydroOS](https://www.facebook.com/hydroos.dev)
+  * [Trang Facebook của tổ chức Kode](https://www.facebook.com/kode.page)
+  * [Trang chủ KodeSpace](https://www.kodelang.dev)
  
