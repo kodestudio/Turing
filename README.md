@@ -24,8 +24,8 @@
   * **Fast** compiling.
   * **Debug** friendly with users.
   * **Multi-purposed** usage for making application, website, AI,... etc.
-  * **Friendly community**.
-  * **Wide and Diversity Ecosystem**.
+  * **Friendly** community.
+  * **Wide and Diversity** Ecosystem.
 
 ### 2. Our targets
   - [x] Build concept for our programming language.
@@ -62,8 +62,8 @@
   * Cú pháp **dễ học và dễ sử dụng**.
   * Biên dịch **nhanh chóng**.
   * **Trình gỡ lỗi** thân thiện với người dùng.
-  * **Cộng đồng thân thiện**.
-  * **Hệ sinh thái đa dạng và rộng lớn**.
+  * **Cộng đồng** thân thiện.
+  * Hệ sinh thái **đa dạng và rộng lớn**.
 
 ### 2. Mục tiêu của chúng tôi.
 - [x] Xây dựng các tính năng và giới thiệu ngôn ngữ lập trình Turing.
