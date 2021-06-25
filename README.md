@@ -1,5 +1,3 @@
-# Turing
-
 <p align="center">
  <img src="https://i.ibb.co/qr0BG2c/Picture1.png" alt="Turing programming language logo" />
 </p>
