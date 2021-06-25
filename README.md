@@ -4,6 +4,7 @@
  <img src="https://i.ibb.co/qr0BG2c/Picture1.png" alt="Turing programming language logo" />
 </p>
 
+## English
 ## A completely new programming language built from scratch, which is multipurposed and suitable for developers.
 ### 1. What is Turing?
 * Turing is an open-source programming language project, made by the **Hydro OS** team with the support from **Kode Organization** to tribute **Alan Turing**.
@@ -40,7 +41,7 @@
      * [Kode Facebook Page](https://www.facebook.com/kode.page)
      * [KodeSpace Website](https://www.kodelang.dev)
 
-# Turing
+## Tiếng Việt
 ## Ngôn ngữ lập trình mới, đa mục đích sử dụng cho các nhà phát triển phần mềm.
 ### 1.Turing là gì?
 
