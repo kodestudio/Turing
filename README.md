@@ -7,7 +7,7 @@
 ## English version
 ## A completely new programming language built from scratch, which is multipurposed and suitable for developers.
 ### 1. What is Turing?
-* Turing is an open-source programming language project, made by the **Hydro OS** team with the support from **Kode Organization** to tribute **Alan Turing**.
+* Turing is an open-source programming language project, made by the **Hydro** team with the support from **Kode Organization** to tribute **Alan Turing**.
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing aged 16"/>
