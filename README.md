@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.ibb.co/qr0BG2c/Picture1.png" alt="Turing programming language logo" />
+ <img src="https://i.ibb.co/Mft6qsB/Picture2.png" alt="Turing programming language logo" />
 </p>
 
 ## English version
@@ -8,7 +8,7 @@
 * Turing is an open-source programming language project, made by the **Hydro** team with the support from **Kode Organization** to tribute **Alan Turing**.
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing aged 16"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing aged 16" width="240" height="320"/>
 <p align="center"> Alan Turing (1912 - 1954)</p>
 </p>
 
@@ -16,6 +16,10 @@
 * This project **is not** a customization of Pascal, we build Turing from **Scratch** with the support of **Pascal's Compiler**.
 * Our team use ***Pascal's Compiler*** to compile our code into machine code for **excuting Turing Compiler** in computer.
 * We hope this language will help to reduce the software development processing time and easier to maintain or refractor code.
+
+* ***New Update Notification:***
+  * In the development phase, we have found many disadvantages of **Pascal Compiler's** so we decided to used **GCC** and **G++** **(C and C++ Compiler )** for this project.
+  * We use C and C++ to ensure our programming language's performance is great and compatible with many kind of CPU, processor instruction.
 
 * Turing language aims to:
   * **Easy-to-use-and-learn** syntax.
@@ -28,7 +32,7 @@
 ### 2. Our targets
   - [x] Build concept for our programming language.
   - [ ] Build context-grammar-tree.
-  - [ ] Build lexer/tokenizer, parser,  compiler.
+  - [ ] Build lexer/tokenizer, parser, compiler.
   - [ ] Build framework for making app, web, AI,...
   - [ ] Write documentation and start beta-testing.
  
@@ -47,7 +51,7 @@
 * Turing là một dự án ngôn ngữ lập trình mã nguồn mở, được xây dựng bởi team **HydroOS** và nhận được sự hỗ trợ từ tổ chức **Kode**, nhằm tri ân đến nhà khoa học **Alan Turing**.
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing 16 tuổi"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg" alt="Alan Turing 16 tuổi" width="240" height="320"/>
 <p align="center"> Alan Turing (1912 - 1954)</p>
 </p>
 
@@ -55,6 +59,10 @@
 * Dự án này **không phải** là một phiên bản cải tiến của ngôn ngữ lập trình **Pascal**, chúng tôi **xây dựng** Turing từ ban đầu với sự hỗ trợ của các **trình biên dịch của ngôn ngữ Pascal**.
 * Nhóm phát triển sử dụng ***các trình biên dịch của Pascal*** để biên dịch code của chúng tôi thành mã máy, cho phép **thực thi chương trình dịch của Turing** trên máy tính.
 * Chúng tôi hy vọng ngôn ngữ lập trình này sẽ giảm bớt gánh nặng trong quá trình phát triển phần mềm, cũng như dễ dàng bảo trì và tái cấu trúc lại code.
+
+* ***Thông báo cập nhật mới:***
+  * Trong quá trình phát triển, chúng tôi nhận ra những thiếu sót, bất lợi của **các trình biên dịch Pascal** nên team quyết định sử dụng **GCC** và **G++** **(các trình biên dịch của C và C++ phát triển bởi GNU)** cho dự án này.
+  * We tôi dùng **C** và **C++** nhằm đảm bảo về mặt hiệu năng của Turing và tính tương thích với nhiều loại CPU, tập chỉ lệnh cho vi xử lý khác nhau.
 
 * Mục tiêu ngôn ngữ lập trình Turing hướng đến:
   * Cú pháp **dễ học và dễ sử dụng**.
