@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.ibb.co/Mft6qsB/Picture2.png" alt="Logo ngôn ngữ lập trình Turing" /> </p>
-# T
+# Turing
 ## Phiên bản Tiếng Việt
 ## Ngôn ngữ lập trình mới, đa mục đích sử dụng cho các nhà phát triển phần mềm.
 ### 1.Turing là gì?
