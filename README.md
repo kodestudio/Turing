@@ -18,8 +18,8 @@
 * We hope this language will help to reduce the software development processing time and easier to maintain or refractor code.
 
 * ***New Update Notification:***
-  * In the development phase, we have found many disadvantages of **Pascal Compiler's** so we decided to used **GCC** and **G++** **(C and C++ Compiler )** for this project.
-  * We use C and C++ to ensure our programming language's performance is great and compatible with many kind of CPU, processor instruction.
+  * In the development phase, we have found many disadvantages of **Pascal Compiler's** so we decided to used **GCC** and **G++** **(C and C++ Compiler developed by GNU)** for this project.
+  * We use **C** and **C++** to ensure Turing's performance and compatible with many kind of CPU, processor instruction.
 
 * Turing language aims to:
   * **Easy-to-use-and-learn** syntax.
@@ -62,7 +62,7 @@
 
 * ***Thông báo cập nhật mới:***
   * Trong quá trình phát triển, chúng tôi nhận ra những thiếu sót, bất lợi của **các trình biên dịch Pascal** nên team quyết định sử dụng **GCC** và **G++** **(các trình biên dịch của C và C++ phát triển bởi GNU)** cho dự án này.
-  * We tôi dùng **C** và **C++** nhằm đảm bảo về mặt hiệu năng của Turing và tính tương thích với nhiều loại CPU, tập chỉ lệnh cho vi xử lý khác nhau.
+  * Chúng tôi dùng **C** và **C++** nhằm đảm bảo về mặt hiệu năng của Turing và tính tương thích với nhiều loại CPU, tập chỉ lệnh cho vi xử lý khác nhau.
 
 * Mục tiêu ngôn ngữ lập trình Turing hướng đến:
   * Cú pháp **dễ học và dễ sử dụng**.
