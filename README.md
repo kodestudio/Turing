@@ -64,7 +64,7 @@
 * ***Thông báo cập nhật mới:***
   * Trong quá trình phát triển, chúng tôi nhận ra những thiếu sót, bất lợi của **các trình biên dịch Pascal** nên team quyết định sử dụng **GCC** và **G++** **(các trình biên dịch của C và C++ phát triển bởi GNU)** cho dự án này.
   * Chúng tôi dùng **C** và **C++** nhằm đảm bảo về mặt hiệu năng của Turing và tính tương thích với nhiều loại CPU, tập chỉ lệnh cho vi xử lý khác nhau.
-  * Sau thông báo cập nhật này,
+  * Sau thông báo cập nhật này, file readme sẽ được cập nhật trong 1 thời gian sớm nhất.
 
 * Mục tiêu ngôn ngữ lập trình Turing hướng đến:
   * Cú pháp **dễ học và dễ sử dụng**.
